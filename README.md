@@ -8,7 +8,7 @@
 
 ## Usage
 
-### Clone the website
+### Clone the website for further seeing
 
 This repository uses submodules to store results. To download these at the same time as cloning the main repository use the following:
 
